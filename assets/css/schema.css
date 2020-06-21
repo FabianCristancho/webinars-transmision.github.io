@@ -1,0 +1,26 @@
+/*
+Este documento debe eliminarse
+*/
+
+.header-image, 
+.header-menu,
+.webinar-topic,
+.webinar-topic-image,
+.webinar-topic-info{
+	border-width: 1px;
+	border-style: solid;
+}
+
+.header-image,
+.webinar-topic-info{
+	border-color: black;
+}
+
+.header-menu{
+	border-color: lightgreen;
+}
+
+.webinar-topic,
+.webinar-topic-image{
+	border-color: red;
+}
