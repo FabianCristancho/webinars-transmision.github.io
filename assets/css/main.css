@@ -13,3 +13,15 @@ header{
 	margin-bottom: 10px;
 }
 
+#poster-webinar img{
+	width: 100%;
+}
+
+#poster-webinar{
+	margin-bottom: 15px;
+}
+
+footer{
+	background: var(--info);
+	color: white;
+}
